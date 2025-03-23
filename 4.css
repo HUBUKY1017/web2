@@ -1,0 +1,11 @@
+.dream-text {
+    text-align: center;           /* 가운데 정렬 */
+    font-size: 48px;              /* 매우 크게 */
+    font-weight: bold;            /* 굵게 */
+    color: #4B0082;               /* 인디고 컬러 */
+    margin-top: 60px;             /* 위쪽 여백 */
+    font-family: 'Georgia', serif; /* 고급스러운 글꼴 */
+    text-shadow: 2px 2px 5px rgba(0,0,0,0.3); /* 부드러운 그림자 */
+    letter-spacing: 2px;          /* 글자 간격 */
+  }
+  

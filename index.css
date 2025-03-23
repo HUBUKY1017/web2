@@ -1,0 +1,18 @@
+.link1 {text-align: center; color: blue; font-weight: bold;}
+  
+.link2 {text-align: center; color: green; font-style: italic;}
+  
+.link3 {text-align: center; color: crimson; text-transform: uppercase;}
+
+.center-img {
+  display: block;
+  margin: 30px auto;
+  width: 400px;  /* 가로 길이를 400px로 고정 */
+  height: auto;  /* 세로 비율은 자동으로 유지 */
+}
+
+ol {
+  width: fit-content;       /* 내용만큼 너비 설정 */
+  margin: 0 auto;           /* 좌우 여백 자동 → 가운데 정렬 */
+  text-align: left;         /* 안의 텍스트는 원래대로 왼쪽 정렬 */
+}
